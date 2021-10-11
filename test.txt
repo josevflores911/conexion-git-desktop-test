@@ -13,3 +13,9 @@ git remote add origin <your_link(github.com/blabla)> envia para el repositorio w
 git remote -v
 
 git clone: para descargar un arquivo a una maquina remota
+
+:wq
+
+:qa
+
+:qa!
