@@ -1,7 +1,15 @@
-this is a test
+se usaron los siguientes comandos git
 
-alterado
+git init: para inicializar la carpeta
+git add --all: coloca no stage todo
 
-tercera edicion github adicionado
+git add 
+git add -u: solo modificados e eremovidos
+git push: para enviar las modificaciones
+git commit: para confirmar las modificaciones realizadas
 
-alterando ambos archivos
+git remote add origin <your_link(github.com/blabla)> envia para el repositorio web
+
+git remote -v
+
+git clone: para descargar un arquivo a una maquina remota
