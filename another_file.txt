@@ -1,1 +1,3 @@
 quarta edicion usando git remote
+
+alterando ambos archivos 6 edicion
